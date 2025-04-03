@@ -28,7 +28,6 @@ The Coffee Machine project is a console-based Python application that emulates t
 
 Developing this project provided insights into:
 
-- **Object-Oriented Programming**: Implementing classes and objects to model real-world entities like the coffee machine and its components.
 - **Resource Management**: Tracking and updating the availability of ingredients required for each coffee type.
 - **User Interaction**: Handling user inputs to navigate the menu and process transactions.
 - **Error Handling**: Managing scenarios where resources are insufficient or payments are inadequate.
