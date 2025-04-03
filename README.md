@@ -33,7 +33,3 @@ Developing this project provided insights into:
 - **Resource Management**: Tracking and updating the availability of ingredients required for each coffee type.
 - **User Interaction**: Handling user inputs to navigate the menu and process transactions.
 - **Error Handling**: Managing scenarios where resources are insufficient or payments are inadequate.
-
-## Acknowledgements
-
-Special thanks to the creators of similar coffee machine simulations and the Python community for their guidance and inspiration.
