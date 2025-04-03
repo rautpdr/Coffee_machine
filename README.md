@@ -8,7 +8,6 @@ A Python-based simulation of a coffee vending machine that allows users to selec
 - [How to Use](#how-to-use)
 - [Technologies Used](#technologies-used)
 - [Lessons Learned](#lessons-learned)
-- [Acknowledgements](#acknowledgements)
 
 ## Overview
 
